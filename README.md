@@ -1,5 +1,5 @@
-Oinkcoin Specs & Information
-================================
+Oinkcoin Specs & Information README (or maybe dont)
+====================================================
 
 Oinkcoin uses Proof of Listening (PoL), a NEW way to "Mine" which uses your devices audio output to ommit certain sound effects. If volume is muted or not above a certain % then no shares will be submitted. The bigger and better the audio devices used are, the more shares will be submitted.
 
