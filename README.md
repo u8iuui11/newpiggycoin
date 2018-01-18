@@ -35,7 +35,7 @@ Getting Started
                          libcurl4-openssl-dev \
                          qt4*
     git clone https://github.com/u8iuui11/oinkcoin.git
-    cd newpiggycoin
+    cd oinkcoin
     qmake USE_UPNP=0 USE_IPV6=1 USE_QRCODE=1 && make
     
 For more information and options, please look at doc/build-unix.md.
